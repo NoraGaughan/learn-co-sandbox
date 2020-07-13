@@ -1,0 +1,3 @@
+nested_students = ["Mike", "Grade 10", "A average"],
+  ["Tim", "Grade 10", "C average"],
+  ["Monique", "Grade 11", "B average"]
